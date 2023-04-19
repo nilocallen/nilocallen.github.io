@@ -1,8 +1,8 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
+author: Colin Allen
+image: assets/images/about/treeme1.jpg
 signature: assets/images/about/signature.png
 ---
 
