@@ -5,9 +5,9 @@
 title: Home
 logo:
 author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
+description: A website displaying me, Colin Allen
+email: colinallen0217@gmail.com
+phone: NA
 # address: 125/A, CA Commercial Area, California, USA
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
@@ -36,38 +36,36 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m Colin, <br> software engineer <br>and musician <br><br><br>
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  #- { icon: "ti-facebook", link: "#" }
+  #- { icon: "ti-instagram", link: "#" }
+  #- { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+blurb: Hey there! I'm a 23 year old computer science student of the Rochester Institute of Technology who finished classes with a 3.3 GPA and will have my degree after my next job, which I'm seeking now!  I've been programming since middle school, lead the robotics team to victory in high school, and continued my passion in college.  In my off time, I'm a drummer for the band Cellar Darts.
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: Learn more!
 
 # About Page
 
 # Work Process Section
-work-process:
-  - title: "Research and Plan"
-    icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#work-process:
+#  - title: "Research and Plan"
+#    icon: "assets/images/icons/plan.png"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title: "Design and Develop"
-    icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#  - title: "Design and Develop"
+#    icon: "assets/images/icons/design.png"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-  - title: "Deliver"
-    icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#  - title: "Deliver"
+#    icon: "assets/images/icons/print.png"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
 team:
@@ -88,10 +86,15 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: C, color: "#fdb157", value: "90%" }
+  - { name: Python, color: "#9473e6", value: "80%" }
+  - { name: Java, color: "#bdecf6", value: "75%" }
+  - { name: Javascript, color: "#ffbcaa", value: "60%" }
+  - { name: Git, color: "#FFB7C3", value: "85%" }
+  - { name: Django, color: "#161032", value: "50%" }
+  - { name: MIPS Assembly, color: "#313638", value: "70%" }
+  - { name: Jekyll, color: "#FF3864", value: "65%" }
+
 
 #-------------------------------
 # Exprerience Section
