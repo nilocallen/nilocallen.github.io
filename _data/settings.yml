@@ -155,9 +155,9 @@ education:
   #   }
 
 #-------------------------------
-# Portfolio (Section and Page)
+# Projects (Section and Page)
 
-# Portfolio Home Section
+# Projects Home Section
 projects-home-items:
   - image: "assets/images/projects/item-1.png"
     url: "#"
@@ -174,7 +174,7 @@ projects-home-items:
   - image: "assets/images/projects/item-5.png"
     url: "#"
 
-# Portfolio Page
+# projects Page
 projects-label:
   - { title: "UI/UX Design", type: "design" }
   - { title: "BRANDING", type: "branding" }
