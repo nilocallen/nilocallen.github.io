@@ -47,7 +47,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Hey there! I'm a 23 year old computer science student of the Rochester Institute of Technology who finished classes with a 3.3 GPA and will have my degree after my next job, which I'm seeking now!  I've been programming since middle school, lead the robotics team to victory in high school, and continued my passion in college.  In my off time, I'm a drummer for the band Cellar Darts.
+blurb: Hey there! I'm a 23 year old computer science student of the Rochester Institute of Technology who finished classes with a 3.3 GPA and will have my degree after my next job, which I'm seeking now!  I've been programming since middle school, lead the robotics team to victory in high school, and continued my passion through personal projects in college.  In my off time, I'm a drummer for the band Cellar Darts.
 blurb-btn-link: "/about"
 blurb-btn-name: Learn more!
 
@@ -79,11 +79,11 @@ team:
 
   - title: "Liam 'Yom' Obrechta"
     image: "assets/images/band/yom.png"
-    designation: "Bassist/Keys"
+    designation: "Bassist & Keys"
 
   - title: "Matthew Correa"
     image: "assets/images/band/matt.png"
-    designation: "Guitarist/Vocalist"
+    designation: "Guitarist & Vocalist"
 
 #-------------------------------
 # Skills Section
@@ -124,7 +124,7 @@ experience:
 education-title: Education
 education:
   - {
-      name: Bachelor's in Computer Science,
+      name: Bachelor's in Computer Science (after 6 months employment),
       date: "2023",
       gpa: "3.3",
       organization: "Rochester Institute of Technology",
