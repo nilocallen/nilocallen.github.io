@@ -25,6 +25,11 @@ sass:
   sass_dir: assets/scss
   style: compressed
 
+# Collections
+collections:
+  projects:
+    output: true
+
 # Exclude from processing.
 exclude:
   - Gemfile

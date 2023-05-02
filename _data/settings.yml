@@ -94,7 +94,7 @@ skills:
   - { name: Python, color: "#9473e6", value: "80%" }
   - { name: Java, color: "#bdecf6", value: "75%" }
   - { name: Javascript, color: "#ffbcaa", value: "60%" }
-  - { name: Git, color: "#FFB7C3", value: "85%" }
+  - { name: Git, color: "#FFB7C3", value: "80%" }
   - { name: Django, color: "#161032", value: "50%" }
   - { name: MIPS Assembly, color: "#313638", value: "70%" }
   - { name: Jekyll, color: "#FF3864", value: "65%" }
