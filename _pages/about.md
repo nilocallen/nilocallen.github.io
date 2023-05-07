@@ -6,8 +6,7 @@ image: assets/images/about/treeme1.jpg
 signature: assets/images/about/signature.png
 ---
 Hey there!  I'm a computer scientist who finished school at RIT with a 3.3 GPA, <br>seeking any full-time 
-remote or NYC stationed role that is related to computer science or <br>software engineering and starting after 
-8/18/2023.  Once I get one more job in the industry, I'll have my bachelor's in computer science! 
+remote or NYC stationed role that is related to computer science or <br>software engineering and starting this summer.  Once I get one more job in the industry, I'll have my bachelor's in computer science! 
 
 Although I'm open minded in which roles I'm seeking, I do have a few special interests that I would love to 
 professionally explore.  Firstly, I love tying software to hardware.  This interest first blossomed in 
