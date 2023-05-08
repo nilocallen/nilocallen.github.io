@@ -9,7 +9,7 @@ tags:   Programming Project
 
 A MIPS assembly program to solve Skyscraper puzzles using recursive backtracking.
 
-I've got a fun one here!  This project was my first use of assembly and sparked my interest in low level interactions.  This program reads a specially formatted file to create the puzzle shown in the thumbnail, then solves it using recursive backtracking.  Because assembly code is hard to read and this project is nearly 1700 lines of it, I won't show code examples, and I'll instead include all of the code at the end.<br><br><br><br>
+I've got a fun one here!  This project was my first use of assembly and sparked my interest in low level interactions.  This program reads a specially formatted file to create the puzzle shown in the thumbnail, then solves it using recursive backtracking.  Because assembly code is hard to read and this project is nearly 1700 lines of it, I won't show code examples, and I'll instead include all of the code at the end.<br><br><br><br><br><br>
 
 <h4>What is the Skyscrapers puzzle?</h4>
 Skyscrapers puzzles involve a square grid surrounded by hints, and optionally including fixed buildings.  
