@@ -7,7 +7,7 @@ author: Colin Allen
 tags:   Programming Project
 ---
 
-**This program finds the optimal path for a real-world orienteering course that factors in difficulty from terrain, season, and inclines.**
+**An optimal path finding program for a real-world orienteering course that factors in difficulty from terrain, season, and inclines using A*.**
 
 It was made on 03.07.2021 for my introduction to AI class.
 
