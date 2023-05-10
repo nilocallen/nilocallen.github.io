@@ -36,7 +36,7 @@ disqus-identifier: colin-allen # Add your shortname for Disqus Comment. For exam
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m Colin, <br> software engineer <br>and musician <br><br><br>
+  hero-title: Hi! I’m Colin, <br> computer science<br>graduate and musician <br><br><br>
 
 social:
   #- { icon: "ti-facebook", link: "#" }
