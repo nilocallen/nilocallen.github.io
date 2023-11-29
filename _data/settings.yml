@@ -25,7 +25,8 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+#google-analytics: # UA-XXXXXX-X
+google-analytics: G-NGRZNLMC5E
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -47,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Hey there! I'm a 23 year old computer scientist from the Rochester Institute of Technology who finished classes with a 3.3 GPA.  I will have my degree after my next job, which I'm seeking now!  I've been programming since middle school, lead the robotics team to victory in high school, and continued my passion in college.  In my off time, I'm a drummer for the band Cellar Darts.
+blurb: Hey there! I'm a 23 year old new computer science grad from RIT.  Now, it's time to begin my career.  I've been programming since middle school, lead the robotics team to victory in high school, and continued my passion in college.  In my off time, I drum, and I'm learning both chess and the piano!
 blurb-btn-link: "/about"
 blurb-btn-name: Learn more!
 
@@ -91,13 +92,17 @@ team:
 skills-title: Skills
 skills:
   - { name: C, color: "#fdb157", value: "90%" }
-  - { name: Python, color: "#9473e6", value: "80%" }
+  - { name: Python, color: "#9473e6", value: "90%" }
   - { name: Java, color: "#bdecf6", value: "75%" }
   - { name: Javascript, color: "#ffbcaa", value: "60%" }
-  - { name: Git, color: "#FFB7C3", value: "80%" }
+  - { name: SQL, color: "#FF3864", value: "80" }
+  - { name: Git, color: "#FFB7C3", value: "90%" }
   - { name: Django, color: "#161032", value: "50%" }
   - { name: MIPS Assembly, color: "#313638", value: "70%" }
-  - { name: Jekyll, color: "#FF3864", value: "65%" }
+  - { name: Jekyll, color: "#bdecf6", value: "65%" }
+  - { name: Jenkins, color: "#ffbcaa", value: "70%" }
+  - { name: DevDeploy, color: "#fdb157", value: "65%" }
+  - { name: Oracle, color: "#9473e6", value: "60%" }
 
 
 #-------------------------------
@@ -117,6 +122,12 @@ experience:
       date: "Jan 2022 - Aug 2022",
       organization: "LightRiver Software",
     }
+  - {
+      name: Software Engineering Intern,
+      icon: "icon-3.png",
+      date: "Sep 2023 - Present",
+      organization: "Paychex",
+    }
 
 #-------------------------------
 # Education Section
@@ -124,9 +135,8 @@ experience:
 education-title: Education
 education:
   - {
-      name: Bachelor's in Computer Science (after 15 weeks employment),
+      name: Bachelor's in Computer Science,
       date: "2023",
-      gpa: "3.3",
       organization: "Rochester Institute of Technology",
     }
 
