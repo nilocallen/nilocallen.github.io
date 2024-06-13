@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Hey there! I'm a 23 year old new computer science grad from RIT.  Now, it's time to begin my career.  I've been programming since middle school, lead the robotics team to victory in high school, and continued my passion in college.  In my off time, I drum, and I'm learning both chess and the piano!
+blurb: Hey there! I'm a 24 year old new computer science grad from RIT.  I've been programming since middle school, lead the robotics team to victory in high school, and continued my passion in college.  In my off time, I play music and lead a World of Warcraft raid team with my family and friends!
 blurb-btn-link: "/about"
 blurb-btn-name: Learn more!
 
@@ -93,9 +93,9 @@ skills-title: Skills
 skills:
   - { name: C, color: "#fdb157", value: "90%" }
   - { name: Python, color: "#9473e6", value: "90%" }
-  - { name: Java, color: "#bdecf6", value: "75%" }
-  - { name: Javascript, color: "#ffbcaa", value: "60%" }
-  - { name: SQL, color: "#FF3864", value: "80" }
+  - { name: Java, color: "#bdecf6", value: "85%" }
+  - { name: Javascript, color: "#ffbcaa", value: "75%" }
+  - { name: SQL, color: "#FF3864", value: "80%" }
   - { name: Git, color: "#FFB7C3", value: "90%" }
   - { name: Django, color: "#161032", value: "50%" }
   - { name: MIPS Assembly, color: "#313638", value: "70%" }
@@ -125,7 +125,13 @@ experience:
   - {
       name: Software Engineering Intern,
       icon: "icon-3.png",
-      date: "Sep 2023 - Present",
+      date: "Sep 2023 - Dec 2023",
+      organization: "Paychex",
+    }
+  - {
+      name: Software Engineer I,
+      icon: "icon-1.png",
+      date: "Jan 2024 - Present",
       organization: "Paychex",
     }
 

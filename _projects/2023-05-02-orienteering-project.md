@@ -80,7 +80,7 @@ travel. In reality, most paths will not involve straight line travel, making
 them longer. This quality guarantees that the AI’s output is the optimal
 path.
 
-<h5>4. The cost function</h5>
+<h4>4. The cost function</h4>
 The cost function is used to determine the estimated total cost of the
 current path when it is completed. It is defined as
 f(x) = g(start, x) + h(x, end) | g = distance from start, h = heuristic (estimated
@@ -163,7 +163,7 @@ in elevations from the land cell to the water cell that made it is less than 1
 meter, the land cell is added to a list called mud and then turned into mud.
 After the waters list is emptied, waters is set to mud and the process repeats
 until all cells within 15 cells of water have been examined and transformed
-accordingly
+accordingly.
 <div style="text-align: center;">
   <img src="/assets/images/projects/orienteering/spring-code.png" alt="Code for spring weather">
 </div>

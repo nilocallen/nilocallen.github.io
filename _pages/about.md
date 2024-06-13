@@ -5,8 +5,8 @@ author: Colin Allen
 image: assets/images/about/treeme1.jpg
 signature: assets/images/about/signature.png
 ---
-Hey there!  I'm a computer science grad from RIT seeking a full-time, preferably remote <br>or NYC stationed
-role in computer science research, networking, cyber security, low-level/embedded systems, or software engineering. 
+Hey there!  I'm a computer science grad from RIT seeking a full-time, remote <br>or Boston stationed
+role in computer science research, networking, cyber security, or low-level/embedded systems. 
 
 Although I'm open minded in which roles I'm seeking, I do have a few special interests that I would love to 
 professionally explore.  Firstly, I love tying software to hardware.  This interest first blossomed in 
@@ -19,5 +19,5 @@ network management software and a course at RIT on networking and data communica
 creating and defending resilient and secure networks and would love to try my hand as a network engineer or
 cyber security agent. 
 
-I also love to be creative, and I do so these days by drumming for a band called Cellar Darts.  Our <a href="https://open.spotify.com/track/3by7mJaH793EiHkIzPijz4?si=1e1a98d8d0ba4da3" target="_blank">first single</a> is out now!  This is what I've been pursuing in the time from my last classes until now.  I've improved greatly and formed memories I'll always hold at our first concert on 4/01/23, but now I'm
-ready to juggle both my musical passion and my career interests.  
+I also love to be creative, which I channel through music.  My first band in Rochester, who I drummed for, released <a href="https://open.spotify.com/track/3by7mJaH793EiHkIzPijz4?si=1e1a98d8d0ba4da3" target="_blank">one single</a> before we parted ways.  My time with them was invaluable.  I
+improved greatly, and I learned that I want to pursue music for as long as I can.
