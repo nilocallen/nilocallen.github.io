@@ -3,19 +3,20 @@
 <section class="section position-relative">
   <div class="container">
     <div class="row ">
-      <div class="col-lg-12 text-center">
+      <!-- <div class="col-lg-12 text-center">
         <h2 class="section-title">{{ site.data.settings.education-title }}</h2>
-      </div>
+      </div> -->
       {% for education in site.data.settings.education %}
-      <div class="col-lg-6 col-md-6 mb-80">
+      <div class="col-lg-6 col-md-6 mb-80" style="margin: auto;">
         <div class="d-flex">
           <div class="mr-lg-5 mr-3">
-            <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
+            <img src="{{ site.baseurl }}/assets/images/education/rit banner.png" alt="rit banner">
           </div>
           <div>
-            <p class="text-dark mb-1">{{ education.date }}</p>
-            <h4>{{ education.name }}</h4>
-            <p class="mb-0 text-light">{{ education.organization }}</p>
+            <br><br><br>
+            <h4 class="text-dark mb-1">{{ education.date }}</h4>
+            <h2>{{ education.name }}</h2>
+            <h4 class="mb-0 text-light">{{ education.organization }}</h4>
           </div>
         </div>
       </div>
