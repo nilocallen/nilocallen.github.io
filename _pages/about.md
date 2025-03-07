@@ -6,10 +6,13 @@ image: assets/images/about/treeme1.jpg
 signature: assets/images/about/signature.png
 ---
 Hey there!  I'm a computer science grad from RIT seeking a full-time, remote <br>or Boston stationed
-role in computer science research, networking, cyber security, or low-level/embedded systems. 
+role in software engineering, game creation, computer science research, networking, cyber security, or low-level/embedded systems. 
 
 Although I'm open minded in which roles I'm seeking, I do have a few special interests that I would love to 
-professionally explore.  Firstly, I love tying software to hardware.  This interest first blossomed in 
+professionally explore.  Firstly, I began programming in my teenage years to create games.  I loved my computers and I loved my 
+games, and this was the first choice of many that gave me my career today. I came out of this with a cursory understanding of the game engines Unity and Gamemaker Studio, as well as experience creating my own 2d game engine.  
+
+Next, I love tying software to hardware.  This interest first blossomed in 
 my high school robotics team, where I was the lead programmer and builder, and taught the newcomers how to
 code.  In college, this interest evolved into my newest passion in the industry: low level hardware and 
 software.  This began in one of my first 200 level courses, where I learned the inner workings of assembly language 
